@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791912202 source:c:\users\user\downloads\creating-list\main.cpp
+	<iostream>
+	<list>
+	<vector>
+
